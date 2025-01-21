@@ -12,6 +12,6 @@ public class Config {
     }
 
     public String getBotToken() {
-        return "7321234036:AAEV-a7JrXDGr41dyjlIiG4mN1fC4U1wK0M";
+        return "";
     }
 }
